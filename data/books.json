@@ -1,0 +1,1522 @@
+[
+    {
+        "id": "458498651",
+        "title": "Techgnosis",
+        "author": "Erik Davis",
+        "year": 1998,
+        "synopsis": "An essay that explores how the mystical, the religious, and the esoteric permeate our modern technological culture.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/9781852427726-L.jpg",
+        "categories": [
+            "non-fiction",
+            "technology",
+            "philosophy",
+            "cultural studies",
+            "mysticism",
+            "english"
+        ]
+    },
+    {
+        "id": "84597631985akadg-anv7aga81-kjk",
+        "title": "Revelation Space (Volume 1)",
+        "author": "Alastair Reynolds",
+        "year": 2000,
+        "synopsis": "In the distant future, humanity has colonized the stars. An archaeologist searches the remnants of a long-dead alien civilization, uncovering a terrifying threat: the Inhibitors — ancient machines determined to eradicate any intelligent species that may one day challenge them.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/0441009425-L.jpg",
+        "categories": [
+            "science fiction",
+            "space opera",
+            "hard science fiction",
+            "english"
+        ]
+    },
+    {
+        "id": "2437fdc2-41ea-4ece-8eae-5f7524277f5b",
+        "title": "Diáspora",
+        "author": "Egan, Greg",
+        "year": 1997,
+        "synopsis": "A post-human epic that explores the far future of humanity — now split into flesh-based humans, digital minds, and robotic intelligences. As cosmic events threaten the galaxy, sentient beings from multiple realities must collaborate to ensure survival and discovery beyond imagination.",
+        "coverImageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1172264162i/156785.jpg",
+        "categories": [
+            "science fiction",
+            "hard science fiction",
+            "posthumanism",
+            "artificial intelligence",
+            "english"
+        ]
+    },
+    {
+        "id": "fa3467a8-e173-409a-b85c-c8c17d414b92",
+        "title": "Coraline",
+        "author": "Neil Gaiman",
+        "year": 2002,
+        "synopsis": "Coraline discovers a mysterious door in her new home and steps into an alternate world that mirrors her own — but it's sinister, twisted, and ruled by a dark version of her mother. She must use her courage and cleverness to save herself and others trapped in the other world.",
+        "coverImageUrl": "https://m.media-amazon.com/images/I/818565mPygL.jpg",
+        "categories": [
+            "fantasy",
+            "horror",
+            "young adult",
+            "english"
+        ]
+    },
+    {
+        "id": "147012b0-9540-4b98-8a02-bd5a782c00bc",
+        "title": "Hardwired",
+        "author": "Walter Jon Williams",
+        "year": 1986,
+        "synopsis": "In a dystopian future ravaged by war and corporate dominance, a mercenary pilot fights against oppressive megacorporations using advanced neural implants and high-tech weaponry. This gritty cyberpunk tale explores themes of technology, freedom, and survival.",
+        "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/3/3b/Hardwire_book_cover_optimized_X1.jpg",
+        "categories": [
+            "science fiction",
+            "cyberpunk",
+            "dystopia",
+            "english"
+        ]
+    },
+    {
+        "id": "28dad4d3-8c9a-44cf-af85-d0578a4d15cc",
+        "title": "The Stormlight Archive",
+        "author": "Brandon Sanderson",
+        "year": 2010,
+        "synopsis": "In a world ravaged by supernatural storms and ancient conflicts, several characters struggle to uncover the truth behind their history and save their world from an apocalyptic threat. This saga blends magic, politics, and epic adventure.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/0765326353-L.jpg",
+        "categories": [
+            "fantasy",
+            "epic fantasy",
+            "adventure",
+            "english"
+        ]
+    },
+    {
+        "id": "c128bf17-d9c2-4750-bb3f-bb4f9f65147d",
+        "title": "The Chronicles of Narnia",
+        "author": "C.S. Lewis",
+        "year": 1950,
+        "synopsis": "A classic fantasy series following the adventures of children who discover the magical land of Narnia, filled with talking animals, mythical creatures, and epic battles between good and evil.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/0064471195-L.jpg",
+        "categories": [
+            "fantasy",
+            "children's literature",
+            "classic",
+            "english"
+        ]
+    },
+    {
+        "id": "4c91ece4-5844-4479-a295-7a8a0e233b27",
+        "title": "The Girl with the Dragon Tattoo",
+        "author": "Stieg Larsson",
+        "year": 2005,
+        "synopsis": "A gripping thriller that follows journalist Mikael Blomkvist and hacker Lisbeth Salander as they investigate a decades-old disappearance in Sweden, uncovering dark secrets and corruption.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/0307454541-L.jpg",
+        "categories": [
+            "thriller",
+            "mystery",
+            "crime",
+            "english"
+        ]
+    },
+    {
+        "id": "d99b52d1-84a2-494c-8b1a-09076c33bff4",
+        "title": "The Notebook",
+        "author": "Nicholas Sparks",
+        "year": 1996,
+        "synopsis": "A romantic novel that tells the story of Noah and Allie, whose enduring love faces challenges of time and circumstance as they navigate life's hardships and reunions.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/0446605239-L.jpg",
+        "categories": [
+            "romance",
+            "drama",
+            "fiction",
+            "english"
+        ]
+    },
+    {
+        "id": "46ba15d2-e4f7-4951-8493-e3ee1d219899",
+        "title": "New Moon (Luna 1)",
+        "author": "Ian McDonald",
+        "year": 2015,
+        "synopsis": "In a near-future lunar colony ruled by powerful families, political intrigue and corporate warfare threaten to destabilize life on the Moon. This novel blends hard science fiction with noir thriller elements.",
+        "coverImageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437138235i/23848027.jpg",
+        "categories": [
+            "science fiction",
+            "cyberpunk",
+            "thriller",
+            "english"
+        ]
+    },
+    {
+        "id": "19762621-65e6-44b6-865e-1cb1198b9f06",
+        "title": "Solaris",
+        "author": "Stanislaw Lem",
+        "year": 1961,
+        "synopsis": "A psychological science fiction novel exploring the interactions between human scientists and the mysterious, sentient ocean on the planet Solaris, challenging perceptions of reality and communication.",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6eGrk_hUTCey6zzP8iIhklJWQL3683P63kw&s",
+        "categories": [
+            "science fiction",
+            "psychological fiction",
+            "philosophy",
+            "english"
+        ]
+    },
+    {
+        "id": "5abe2c32-9676-4be9-ace4-d8d8a0d42deb",
+        "title": "The Road",
+        "author": "Cormac McCarthy",
+        "year": 2006,
+        "synopsis": "A post-apocalyptic novel following a father and son as they journey through a devastated landscape, struggling to survive against all odds while maintaining their humanity.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/0307387895-L.jpg",
+        "categories": [
+            "post-apocalyptic",
+            "fiction",
+            "drama",
+            "english"
+        ]
+    },
+    {
+        "id": "346421f4-cea4-4525-a1c1-a1b6e581ddff",
+        "title": "The Black Swan",
+        "author": "Nassim Nicholas Taleb",
+        "year": 2007,
+        "synopsis": "A book exploring the profound impact of rare and unpredictable events—'Black Swan' events—on history, science, and our understanding of the world, challenging traditional risk assessment methods.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/081297381X-L.jpg",
+        "categories": [
+            "non-fiction",
+            "philosophy",
+            "economics",
+            "english"
+        ]
+    },
+    {
+        "id": "9daa3d37-8b6f-4c8e-ac5c-4eb2b288a40f",
+        "title": "The Disappearing Spoon",
+        "author": "Sam Kean",
+        "year": 2010,
+        "synopsis": "An engaging exploration of the periodic table, revealing fascinating stories behind the elements, their discovery, and their impact on history, culture, and science.",
+        "coverImageUrl": "https://archive.org/services/img/isbn_9780857520272/full/pct:200/0/default.jpg",
+        "categories": [
+            "non-fiction",
+            "science",
+            "history",
+            "english"
+        ]
+    },
+    {
+        "id": "a1420fa1-6aeb-4851-bdae-35419b7c5249",
+        "title": "A History of the World in 100 Objects",
+        "author": "Neil MacGregor",
+        "year": 2010,
+        "synopsis": "An illustrated exploration of human history through 100 objects from the British Museum, revealing cultural, social, and technological developments across time.",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2IfeFlf3kJgM9BsdkLoWSskCvWCIjLhDTFA&s",
+        "categories": [
+            "non-fiction",
+            "history",
+            "art",
+            "english"
+        ]
+    },
+    {
+        "id": "f681d005-e4c4-45e9-92eb-da5d1955e60c",
+        "title": "The Story of Stuff",
+        "author": "Annie Leonard",
+        "year": 2010,
+        "synopsis": "An environmental critique exploring the lifecycle of material goods, from production to disposal, highlighting the social and ecological impacts of consumerism.",
+        "coverImageUrl": "https://d28hgpri8am2if.cloudfront.net/book_images/cvr9781451610291_9781451610291_hr.jpg",
+        "categories": [
+            "non-fiction",
+            "environment",
+            "sustainability",
+            "english"
+        ]
+    },
+    {
+        "id": "9076d0f8-5b75-4818-97ab-3d2f43b71ff1",
+        "title": "From Russia, with Love",
+        "author": "Ian Fleming",
+        "year": 1957,
+        "synopsis": "The fifth James Bond novel, in which Bond is tasked with retrieving a decoding device while navigating espionage, danger, and betrayal during the Cold War.",
+        "coverImageUrl": "https://m.media-amazon.com/images/I/51GWFtwvBJL._UF1000,1000_QL80_.jpg",
+        "categories": [
+            "spy fiction",
+            "thriller",
+            "adventure",
+            "english"
+        ]
+    },
+    {
+        "id": "591dd9b2-67ac-48c3-bc26-e63ad6b6b943",
+        "title": "Casino Royale",
+        "author": "Ian Fleming",
+        "year": 1953,
+        "synopsis": "The first James Bond novel, introducing the British secret agent as he takes on a high-stakes baccarat game to bring down a corrupt French agent financing terrorists.",
+        "coverImageUrl": "https://m.media-amazon.com/images/I/91JYY6nSK8L._UF1000,1000_QL80_.jpg",
+        "categories": [
+            "spy fiction",
+            "thriller",
+            "adventure",
+            "english"
+        ]
+    },
+    {
+        "id": "7aaf5896-241e-4686-9c05-880a57037bf2",
+        "title": "Count Zero",
+        "author": "William Gibson",
+        "year": 1986,
+        "synopsis": "Set in a dystopian future dominated by multinational corporations and cyberspace, this cyberpunk novel follows multiple characters entangled in a web of intrigue involving artificial intelligence and corporate espionage.",
+        "coverImageUrl": "https://i.ebayimg.com/images/g/4jMAAOSwaJtjNPqI/s-l1200.jpg",
+        "categories": [
+            "science fiction",
+            "cyberpunk",
+            "thriller",
+            "english"
+        ]
+    },
+    {
+        "id": "207225e8-959b-4e0a-9b90-9b3b9edd6f4b",
+        "title": "The Serpent and the Rainbow",
+        "author": "Wade Davis",
+        "year": 1985,
+        "synopsis": "An investigative account exploring the Haitian practice of zombification and the cultural and pharmacological origins behind it, blending anthropology and real-life mystery.",
+        "coverImageUrl": "https://http2.mlstatic.com/D_NQ_NP_647757-MLA73161608362_122023-O.webp",
+        "categories": [
+            "non-fiction",
+            "anthropology",
+            "mystery",
+            "english"
+        ]
+    },
+    {
+        "id": "0e731195-3c03-4850-b021-6d45201421eb",
+        "title": "The Dreams in the Witch House",
+        "author": "H.P. Lovecraft",
+        "year": 1933,
+        "synopsis": "A horror short story following a university student who rents a room in a haunted house and experiences terrifying supernatural events linked to witchcraft and alternate dimensions.",
+        "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f4/The_Dreams_in_the_Witch_House_and_Other_Weird_Stories.jpg",
+        "categories": [
+            "horror",
+            "weird fiction",
+            "short story",
+            "english"
+        ]
+    },
+    {
+        "id": "9318e335-8c02-4544-86fd-8e4425555a87",
+        "title": "At the Mountains of Madness",
+        "author": "H.P. Lovecraft",
+        "year": 1936,
+        "synopsis": "A chilling horror novella about an Antarctic expedition that uncovers ancient alien ruins and encounters unimaginable cosmic horrors.",
+        "coverImageUrl": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781787556218/at-the-mountains-of-madness-9781787556218_hr.jpg",
+        "categories": [
+            "horror",
+            "weird fiction",
+            "novella",
+            "english"
+        ]
+    },
+    {
+        "id": "716491ce-92b5-40e5-8696-b81c0ee3e2e0",
+        "title": "The call of Cthulhu",
+        "author": "H.P. Lovecraft",
+        "year": 1928,
+        "synopsis": "A seminal horror short story about the awakening of the ancient cosmic entity Cthulhu, exploring themes of madness, forbidden knowledge, and the insignificance of humanity.",
+        "coverImageUrl": "https://http2.mlstatic.com/D_NQ_NP_916682-MLU54963026844_042023-O.webp",
+        "categories": [
+            "horror",
+            "weird fiction",
+            "short story",
+            "english"
+        ]
+    },
+    {
+        "id": "1f678d41-7b57-402e-a64a-a0a703b06a32",
+        "title": "VALIS",
+        "author": "Philip K. Dick",
+        "year": 1981,
+        "synopsis": "A metaphysical science fiction novel exploring themes of reality, religion, and mental illness through the experiences of a man who believes he is contacted by a vast, intelligent cosmic entity called VALIS.",
+        "coverImageUrl": "https://www.thesecretbookstore.ie/cdn/shop/products/Valis_PhilipK.Dick.jpg?v=1607704727",
+        "categories": [
+            "science fiction",
+            "philosophy",
+            "metaphysical fiction",
+            "english"
+        ]
+    },
+    {
+        "id": "11c6db87-8e41-44b1-a5ee-d19a77e0ec65",
+        "title": "Simulacra and Simulation",
+        "author": "Jean Baudrillard",
+        "year": 1981,
+        "synopsis": "A philosophical treatise analyzing the relationships between reality, symbols, and society, arguing that in postmodern culture, simulations have replaced reality.",
+        "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Simulacres_et_Simulation.jpg",
+        "categories": [
+            "philosophy",
+            "social theory",
+            "postmodernism",
+            "english"
+        ]
+    },
+    {
+        "id": "d7363a96-bd05-445d-92ae-4cf7bbea6102",
+        "title": "Through the Looking-Glass, and What Alice Found There",
+        "author": "Lewis Carroll",
+        "year": 1871,
+        "synopsis": "The sequel to Alice's Adventures in Wonderland, this fantasy novel follows Alice as she steps through a mirror into a whimsical and sometimes puzzling world full of talking flowers, chess pieces, and nonsensical characters.",
+        "coverImageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1359299332i/83346.jpg",
+        "categories": [
+            "fantasy",
+            "children's literature",
+            "classic",
+            "english"
+        ]
+    },
+    {
+        "id": "bf7cfa1e-6962-4500-98c6-bf9a58e7d2f2",
+        "title": "The War of the Worlds",
+        "author": "H.G. Wells",
+        "year": 1898,
+        "synopsis": "A pioneering science fiction novel depicting a Martian invasion of Earth and humanity’s struggle for survival amidst advanced extraterrestrial technology and destruction.",
+        "coverImageUrl": "https://cdn.kobo.com/book-images/ff64fe06-7afe-4937-b286-6c368833eae8/353/569/90/False/the-war-of-the-worlds-55.jpg",
+        "categories": [
+            "science fiction",
+            "classic",
+            "alien invasion",
+            "english"
+        ]
+    },
+    {
+        "id": "7391700a-af51-431c-91a7-04378f39b027",
+        "title": "From the Earth to the Moon",
+        "author": "Jules Verne",
+        "year": 1865,
+        "synopsis": "A classic science fiction novel about a post-American Civil War society that attempts to launch three people to the Moon using a giant cannon.",
+        "coverImageUrl": "https://m.media-amazon.com/images/I/51pqA7RuKqL._UF1000,1000_QL80_.jpg",
+        "categories": [
+            "science fiction",
+            "classic",
+            "adventure",
+            "english"
+        ]
+    },
+    {
+        "id": "3a2cc509-3846-4122-8912-45f7bc56d3ab",
+        "title": "In Cold Blood",
+        "author": "Truman Capote",
+        "year": 1966,
+        "synopsis": "A pioneering true crime novel that details the brutal murder of a Kansas family and the subsequent investigation, exploring the psychology of the killers and the impact on the community.",
+        "coverImageUrl": "https://m.media-amazon.com/images/I/81Y9w3D1MgL.jpg",
+        "categories": [
+            "non-fiction",
+            "true crime",
+            "literary journalism",
+            "english"
+        ]
+    },
+    {
+        "id": "34b965d0-2ed1-42b8-9287-87bda658245e",
+        "title": "The Magic Mountain",
+        "author": "Thomas Mann",
+        "year": 1924,
+        "synopsis": "A profound novel set in a Swiss sanatorium, exploring themes of time, illness, and the clash of ideas in pre-World War I Europe through the experiences of a young man.",
+        "coverImageUrl": "https://m.media-amazon.com/images/I/81P34UcXAnL._UF1000,1000_QL80_.jpg",
+        "categories": [
+            "fiction",
+            "classic",
+            "philosophical fiction",
+            "english"
+        ]
+    },
+    {
+        "id": "e7e82be2-9ba1-4c7f-90ec-f193ee586ab4",
+        "title": "Exploring the World of Lucid Dreaming",
+        "author": "Stephen LaBerge",
+        "year": 1990,
+        "synopsis": "A comprehensive guide to the practice and science of lucid dreaming, offering techniques for awareness and control within dreams, as well as explanations of the underlying psychology and physiology.",
+        "coverImageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320559467i/316781.jpg",
+        "categories": [
+            "non-fiction",
+            "psychology",
+            "self-help",
+            "english"
+        ]
+    },
+    {
+        "id": "306070e0-aeca-42f4-9264-f8bc66bed60e-return",
+        "title": "The Return of the Knight in Rusty Armor",
+        "author": "Robert Fisher",
+        "year": 2021,
+        "synopsis": "After a long journey to get rid of his rusty armor, the medieval knight returns to his castle where he begins a new search, this time with Juliet, his wife. She has evolved in an unexpected direction: she has ceased to be mistress of the castle and has begun to work. If the knight in rusty armor taught us to free ourselves from the emotional armor that suffocates us, his return will teach us to build a relationship based on love.",
+        "coverImageUrl": "https://images.cdn2.buscalibre.com/fit-in/360x360/cc/7d/cc7d9bb9c84b578b6e771072308d5680.jpg",
+        "categories": [
+            "fiction",
+            "fable",
+            "self-help",
+            "english"
+        ]
+    },
+    {
+        "id": "ca18bac5-805e-466f-8a45-53049a923e98",
+        "title": "The Lonely City: Adventures in the Art of Being Alone ",
+        "author": "Olivia Laing",
+        "year": 2016,
+        "synopsis": "An exploration of urban loneliness and isolation through art, history, and personal narrative, examining how solitude shapes creativity and identity.",
+        "coverImageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1450039964i/25667449.jpg",
+        "categories": [
+            "non-fiction",
+            "psychology",
+            "art",
+            "english"
+        ]
+    },
+    {
+        "id": "eee5c66e-305c-42bc-810a-9b61b1cb9d17",
+        "title": "The Travelling Cat Chronicles",
+        "author": "Hiro Arikawa",
+        "year": 2012,
+        "synopsis": "A heartwarming novel about the journey of a man and his beloved cat as they travel across Japan, exploring themes of friendship, loyalty, and the bittersweet nature of life.",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrajFp7mHiBJdPLB2BLo4z9r0284nBNmA0pA&s",
+        "categories": [
+            "fiction",
+            "literary fiction",
+            "animals",
+            "english"
+        ]
+    },
+    {
+        "id": "21022c11-bb8e-4c60-82ce-f64e7f4113ce",
+        "title": "She Comes First",
+        "author": "Ian Kerner",
+        "year": 2004,
+        "synopsis": "A guide to female sexual pleasure focusing on oral sex, aiming to improve intimacy and understanding in relationships through practical advice and techniques.",
+        "coverImageUrl": "https://images.cdn2.buscalibre.com/fit-in/360x360/2e/d2/2ed290375c99fbbcad9ac7670ff4945a.jpg",
+        "categories": [
+            "non-fiction",
+            "self-help",
+            "sexuality",
+            "english"
+        ]
+    },
+    {
+        "id": "16615d74-d241-4e58-aa66-c633efd59f16",
+        "title": "The Big Sleep",
+        "author": "Raymond Chandler",
+        "year": 1939,
+        "synopsis": "A classic hard-boiled detective novel featuring private investigator Philip Marlowe, who uncovers corruption and murder in the dark underbelly of Los Angeles.",
+        "coverImageUrl": "https://m.media-amazon.com/images/I/71HN+qdUVrL.jpg",
+        "categories": [
+            "mystery",
+            "crime fiction",
+            "noir",
+            "english"
+        ]
+    },
+    {
+        "id": "eda03719-90aa-4c56-a83f-4810c3bd0ee1",
+        "title": "God: A Human History",
+        "author": "Reza Aslan",
+        "year": 2017,
+        "synopsis": "An exploration of how humans have imagined and depicted God throughout history, blending anthropology, history, and theology to understand the human quest for the divine.",
+        "coverImageUrl": "https://images.squarespace-cdn.com/content/v1/63b08c10da6b5c4b28942eb8/1689119794838-026Z61E4LFXBAIYI43BD/god-final.jpeg",
+        "categories": [
+            "non-fiction",
+            "religion",
+            "history",
+            "english"
+        ]
+    },
+    {
+        "id": "2f98e854-3dc8-4820-a050-e68ffcdd5a62",
+        "title": "Cleopatra and Frankenstein",
+        "author": "Coco Mellors",
+        "year": 2022,
+        "synopsis": "A contemporary novel exploring identity, family, and belonging through the intertwined lives of two very different women connected by blood and secrets.",
+        "coverImageUrl": "https://images.cdn1.buscalibre.com/fit-in/360x360/fb/e4/fbe45837404bd434a3e7c3326541ee85.jpg",
+        "categories": [
+            "fiction",
+            "literary fiction",
+            "contemporary",
+            "english"
+        ]
+    },
+    {
+        "id": "a429e37d-dd25-4290-bcd7-e011f616765a",
+        "title": "Ready Player One",
+        "author": "Ernest Cline",
+        "year": 2011,
+        "synopsis": "A dystopian science fiction novel set in a near-future where people escape their harsh reality through a virtual reality world called the OASIS, centered around a high-stakes treasure hunt full of 1980s pop culture references.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/0307887448-L.jpg",
+        "categories": [
+            "science fiction",
+            "dystopian",
+            "adventure",
+            "english"
+        ]
+    },
+    {
+        "id": "fc0e6589-7beb-4652-a309-5084543e7e5f",
+        "title": "Cismatrix",
+        "author": "Bruce Sterling",
+        "year": 2023,
+        "synopsis": "A cyberpunk novel exploring a post-singularity future where artificial intelligence and human consciousness intersect, focusing on themes of identity, technology, and societal change.",
+        "coverImageUrl": "https://images.cdn2.buscalibre.com/fit-in/360x360/49/b4/49b48fa45fcc6dc8a57e11778e342cbb.jpg",
+        "categories": [
+            "science fiction",
+            "cyberpunk",
+            "speculative fiction",
+            "english"
+        ]
+    },
+    {
+        "id": "aaf852ab-d91e-4108-a7e2-874321b6a2fe",
+        "title": "The Diamond Age",
+        "author": "Neal Stephenson",
+        "year": 1995,
+        "synopsis": "A cyberpunk novel set in a future where nanotechnology has transformed society, focusing on a young girl's education through an interactive, personalized book called the 'Young Lady's Illustrated Primer.'",
+        "coverImageUrl": "https://m.media-amazon.com/images/I/815qEb-mQ6L._UF1000,1000_QL80_.jpg",
+        "categories": [
+            "science fiction",
+            "cyberpunk",
+            "speculative fiction",
+            "english"
+        ]
+    },
+    {
+        "id": "40470418-fc4c-479e-8401-7903bc5e1a11",
+        "title": "Ghost in the Shell",
+        "author": "Masamune Shirow",
+        "year": 1989,
+        "synopsis": "A cyberpunk manga set in a futuristic world where cybernetic enhancement is common, following Major Motoko Kusanagi as she investigates cybercrimes and questions the nature of consciousness and identity.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/1593072287-L.jpg",
+        "categories": [
+            "manga",
+            "science fiction",
+            "cyberpunk",
+            "english"
+        ]
+    },
+    {
+        "id": "0b17eb65-bc5d-4692-92a8-b538c5f93ad0",
+        "title": "Only Forward",
+        "author": "Michael Marshall Smith",
+        "year": 1994,
+        "synopsis": "A surreal and genre-bending science fiction novel following Stark, a troubleshooter navigating a city divided into bizarre zones, blending mystery, cyberpunk, and psychological elements.",
+        "coverImageUrl": "https://m.media-amazon.com/images/I/61+wK9bMfsL.jpg",
+        "categories": [
+            "science fiction",
+            "speculative fiction",
+            "cyberpunk",
+            "english"
+        ]
+    },
+    {
+        "id": "d10cbd40-6b11-4187-831e-c43e724c301e",
+        "title": "Spares",
+        "author": "Michael Marshall Smith",
+        "year": 1996,
+        "synopsis": "In a gritty future, ex-cop Jack Randall uncovers a horrifying secret involving human clones raised for spare body parts. A gripping mix of cyberpunk, noir, and moral questioning.",
+        "coverImageUrl": "https://m.media-amazon.com/images/I/714OYCIRyYL._AC_UF1000,1000_QL80_.jpg",
+        "categories": [
+            "science fiction",
+            "thriller",
+            "cyberpunk",
+            "english"
+        ]
+    },
+    {
+        "id": "cdb36646-5e26-4947-a77d-83c88a28232f",
+        "title": "Just Kids",
+        "author": "Patti Smith",
+        "year": 2010,
+        "synopsis": "A memoir chronicling Patti Smith’s early years in New York City and her relationship with photographer Robert Mapplethorpe, capturing their artistic growth, struggles, and deep emotional bond.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/006621131X-L.jpg",
+        "categories": [
+            "non-fiction",
+            "memoir",
+            "music",
+            "english"
+        ]
+    },
+    {
+        "id": "6d64e554-05d3-43ff-bf75-b326735bc134",
+        "title": "Transmetropolitan",
+        "author": "Warren Ellis, Darick Robertson",
+        "year": 1997,
+        "synopsis": "A cyberpunk graphic novel series following Spider Jerusalem, a gonzo journalist navigating a dystopian future city, exposing political corruption and societal decay with brutal honesty and dark humor.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/1401222617-L.jpg",
+        "categories": [
+            "graphic novel",
+            "cyberpunk",
+            "dystopian",
+            "english"
+        ]
+    },
+    {
+        "id": "be1910ec-53c8-493f-a7a9-ee254462d433",
+        "title": "Altered Carbon 3 Book Collection Set",
+        "author": "Richard K. Morgan",
+        "year": 2002,
+        "synopsis": "A cyberpunk trilogy following Takeshi Kovacs, an ex-Envoy soldier in a future where human consciousness can be digitized and transferred between bodies. The collection includes 'Altered Carbon', 'Broken Angels', and 'Woken Furies'.",
+        "coverImageUrl": "https://m.media-amazon.com/images/I/61BzYAt2GLL._AC_UF1000,1000_QL80_.jpg",
+        "categories": [
+            "science fiction",
+            "cyberpunk",
+            "dystopian",
+            "english"
+        ]
+    },
+    {
+        "id": "2bd1c092-3c04-45cf-b257-98bd805f29ae",
+        "title": "Into Neon",
+        "author": "Matthew A. Goodwin",
+        "year": 2020,
+        "synopsis": "In a dystopian future dominated by corporations, a young man named Moss leaves the security of corporate life to join a resistance movement. As he navigates the neon-lit underworld, he must confront the cost of freedom in a cyberpunk society.",
+        "coverImageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562251108l/52160038.jpg",
+        "categories": [
+            "science fiction",
+            "cyberpunk",
+            "dystopian",
+            "english"
+        ]
+    },
+    {
+        "id": "f95c8d82-1b9f-4a60-a6c3-ee77dd2a6d98",
+        "title": "Do Androids Dream of Electric Sheep?",
+        "author": "Philip K. Dick",
+        "year": 1968,
+        "synopsis": "In a post-apocalyptic future where Earth has been ravaged by nuclear war, bounty hunter Rick Deckard is tasked with 'retiring' rogue androids who blend in among humans. The novel explores themes of identity, empathy, and what it means to be human.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/0345404475-L.jpg",
+        "categories": [
+            "science fiction",
+            "dystopian",
+            "cyberpunk",
+            "english"
+        ]
+    },
+    {
+        "id": "a8787819-ef67-44b4-a594-2a328c6cf7ed",
+        "title": "The Myth of Sisyphus",
+        "author": "Albert Camus",
+        "year": 1942,
+        "synopsis": "A foundational philosophical essay in which Albert Camus explores the absurd condition of human existence, using the Greek myth of Sisyphus as a metaphor for the human struggle to find meaning in a meaningless world.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/0141023996-L.jpg",
+        "categories": [
+            "non-fiction",
+            "philosophy",
+            "existentialism",
+            "english"
+        ]
+    },
+    {
+        "id": "a95cb454-0d2a-4d0b-b1cc-944dd7cdff56",
+        "title": "Wiccapedia",
+        "author": "Shawn Robbins, Leanna Greenaway",
+        "year": 2011,
+        "synopsis": "A modern guide to Wicca and witchcraft, offering practical advice on spells, rituals, crystal magic, and the ethical use of white witchcraft in everyday life.",
+        "coverImageUrl": "https://http2.mlstatic.com/D_NQ_NP_872222-MLA26738109410_012018-O.webp",
+        "categories": [
+            "non-fiction",
+            "spirituality",
+            "wicca",
+            "english"
+        ]
+    },
+    {
+        "id": "b023c77f-d2b0-48c0-b664-1c734070f9a3",
+        "title": "Atlas Shrugged",
+        "author": "Ayn Rand",
+        "year": 1957,
+        "synopsis": "A philosophical novel presenting Rand's Objectivist philosophy, set in a dystopian United States where leading innovators and industrialists mysteriously disappear, exploring themes of individualism, capitalism, and government control.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/0451191145-L.jpg",
+        "categories": [
+            "fiction",
+            "philosophical fiction",
+            "dystopian",
+            "english"
+        ]
+    },
+    {
+        "id": "3c21befb-c173-4c27-a2ab-c159d647a902",
+        "title": "The Art of Dreaming",
+        "author": "Carlos Castañeda",
+        "year": 1993,
+        "synopsis": "A spiritual and shamanic guide exploring the techniques and philosophy of lucid dreaming and controlled dreaming, teaching how to navigate and transform dream worlds.",
+        "coverImageUrl": "https://m.media-amazon.com/images/I/71tw6RAykaL._UF1000,1000_QL80_.jpg",
+        "categories": [
+            "non-fiction",
+            "spirituality",
+            "self-help",
+            "english"
+        ]
+    },
+    {
+        "id": "e0a71608-8d97-4ba5-a74c-128994d6afe0",
+        "title": "The Tibetan Book of the Dead (Bardo Thodol)",
+        "author": "Traditional Tibetan text",
+        "year": 800,
+        "synopsis": "An ancient Tibetan Buddhist funerary text that guides the consciousness of the deceased through the experiences of the bardo—the intermediate state between death and rebirth.",
+        "coverImageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1624632076i/58422961.jpg",
+        "categories": [
+            "non-fiction",
+            "spirituality",
+            "religion",
+            "english"
+        ]
+    },
+    {
+        "id": "17961f98-844e-407b-a848-05a5468b4817",
+        "title": "Meditations",
+        "author": "Marcus Aurelius",
+        "year": 180,
+        "synopsis": "A series of personal writings by the Roman emperor Marcus Aurelius, offering insights on Stoic philosophy, self-discipline, and resilience in the face of adversity.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/0140449337-L.jpg",
+        "categories": [
+            "non-fiction",
+            "philosophy",
+            "stoicism",
+            "english"
+        ]
+    },
+    {
+        "id": "4beabf5b-6e8c-49e6-865a-5859734841a9",
+        "title": "The Name of the Rose",
+        "author": "Umberto Eco",
+        "year": 1980,
+        "synopsis": "A historical mystery novel set in a 14th-century Italian monastery, where a friar investigates a series of murders intertwined with theological debates and forbidden knowledge.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/0156001314-L.jpg",
+        "categories": [
+            "fiction",
+            "historical fiction",
+            "mystery",
+            "english"
+        ]
+    },
+    {
+        "id": "0c4781cc-e0cf-48c8-9ac8-347fc53322be",
+        "title": "Les Fleurs du mal",
+        "author": "Charles Baudelaire",
+        "year": 1857,
+        "synopsis": "A seminal collection of French poetry exploring themes of decadence, eroticism, mortality, and the search for beauty amidst modern life's corruption.",
+        "coverImageUrl": "https://images.cdn2.buscalibre.com/fit-in/360x360/b5/93/b59314b84699fddbb98c2a84430bd675.jpg",
+        "categories": [
+            "poetry",
+            "classic",
+            "non-fiction",
+            "english"
+        ]
+    },
+    {
+        "id": "f98dee18-5de2-4483-99b2-34d583ff1bba",
+        "title": "A Portrait of the Artist as a Young Man",
+        "author": "James Joyce",
+        "year": 1916,
+        "synopsis": "A semi-autobiographical novel following the formative years of Stephen Dedalus as he grapples with issues of identity, religion, and artistic expression in early 20th century Ireland.",
+        "coverImageUrl": "https://images.penguinrandomhouse.com/cover/9780143108245",
+        "categories": [
+            "fiction",
+            "classic",
+            "modernist",
+            "english"
+        ]
+    },
+    {
+        "id": "c5df124c-3536-4ad3-a538-f4c2b9890a31",
+        "title": "The Divine Comedy",
+        "author": "Dante Alighieri",
+        "year": 1320,
+        "synopsis": "An epic poem divided into three parts—Inferno, Purgatorio, and Paradiso—that chronicles Dante's allegorical journey through Hell, Purgatory, and Heaven, exploring themes of sin, redemption, and divine justice.",
+        "coverImageUrl": "https://m.media-amazon.com/images/I/91vybHeMSxL.jpg",
+        "categories": [
+            "poetry",
+            "classic",
+            "fiction",
+            "english"
+        ]
+    },
+    {
+        "id": "ff2757ed-78cd-49c7-abd8-dcb8a73021c0",
+        "title": "Twenty Thousand Leagues Under the Sea",
+        "author": "Jules Verne",
+        "year": 1870,
+        "synopsis": "A classic adventure novel that follows Professor Aronnax, Conseil, and Ned Land as they embark on a voyage aboard the submarine Nautilus, commanded by Captain Nemo, exploring the mysteries of the deep ocean.",
+        "coverImageUrl": "https://images.cdn2.buscalibre.com/fit-in/360x360/4c/3d/4c3d8b7de741eda6383c423561b5ed5d.jpg",
+        "categories": [
+            "fiction",
+            "adventure",
+            "classic",
+            "english"
+        ]
+    },
+    {
+        "id": "75d1134d-ff38-424d-adac-562aa862be3e",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "synopsis": "A classic novel set in the Jazz Age that explores themes of decadence, idealism, and the American Dream through the mysterious millionaire Jay Gatsby and his obsession with Daisy Buchanan.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/0743273567-L.jpg",
+        "categories": [
+            "fiction",
+            "classic",
+            "literature",
+            "english"
+        ]
+    },
+    {
+        "id": "a87f2774-ae24-4a0f-bd05-1083c824b023",
+        "title": "Your Name",
+        "author": "Makoto Shinkai",
+        "year": 2016,
+        "synopsis": "A beautifully crafted story of two teenagers who mysteriously begin to swap bodies and lives, exploring themes of love, fate, and connection across time and space.",
+        "coverImageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1495035001i/33232472.jpg",
+        "categories": [
+            "fiction",
+            "romance",
+            "fantasy",
+            "english"
+        ]
+    },
+    {
+        "id": "1d73b687-b16b-483a-a1f0-8421d34cbf6e",
+        "title": "2001: A Space Odyssey",
+        "author": "Arthur C. Clarke",
+        "year": 1968,
+        "synopsis": "A science fiction classic that explores human evolution, artificial intelligence, and extraterrestrial life, centered around a mysterious monolith discovered on the Moon and the journey of the spaceship Discovery One.",
+        "coverImageUrl": "https://m.media-amazon.com/images/I/512DmGvkfsL._SY445_SX342_.jpg",
+        "categories": [
+            "science fiction",
+            "classic",
+            "space",
+            "english"
+        ]
+    },
+    {
+        "id": "7f259ba9-9b24-4b51-a11b-f8aa7865835d",
+        "title": "The Invisible Man",
+        "author": "H.G. Wells",
+        "year": 1897,
+        "synopsis": "A science fiction novel about a scientist who discovers the secret to invisibility but struggles with the consequences of his transformation, exploring themes of identity, isolation, and power.",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2XWxxoj7i40hJaZQKmUdnawdcnDfRa_z8yw&s",
+        "categories": [
+            "science fiction",
+            "classic",
+            "horror",
+            "english"
+        ]
+    },
+    {
+        "id": "626a030d-1d8e-4ae8-be6a-6e2e75feaf26",
+        "title": "The Way of Zen",
+        "author": "Alan Watts",
+        "year": 1957,
+        "synopsis": "An accessible introduction to Zen Buddhism, exploring its history, philosophy, and practices, aimed at Western readers interested in spirituality and Eastern thought.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/0375705104-L.jpg",
+        "categories": [
+            "non-fiction",
+            "spirituality",
+            "philosophy",
+            "english"
+        ]
+    },
+    {
+        "id": "107cb570-f0a4-472a-8101-b806d1c8d489",
+        "title": "Fear and Loathing in Las Vegas",
+        "author": "Hunter S. Thompson",
+        "year": 1971,
+        "synopsis": "A gonzo journalism classic documenting a drug-fueled trip to Las Vegas, exploring the dark underbelly of the American Dream through a blend of fact and fiction.",
+        "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/7/7c/Fear_and_Loathing_in_Las_Vegas.jpg",
+        "categories": [
+            "non-fiction",
+            "journalism",
+            "classic",
+            "english"
+        ]
+    },
+    {
+        "id": "f3f5b141-8d6f-47eb-b755-a04b008859df",
+        "title": "Norwegian Wood",
+        "author": "Haruki Murakami",
+        "year": 1987,
+        "synopsis": "A poignant coming-of-age novel about love, loss, and mental health, following Toru Watanabe as he navigates complex relationships during his college years in Tokyo.",
+        "coverImageUrl": "https://m.media-amazon.com/images/I/71bGbbwuCAL._UF1000,1000_QL80_.jpg",
+        "categories": [
+            "fiction",
+            "literary fiction",
+            "romance",
+            "english"
+        ]
+    },
+    {
+        "id": "1b7bd8ce-d0fc-44c6-8878-a440e5a40a8e",
+        "title": "Kafka on the Shore",
+        "author": "Haruki Murakami",
+        "year": 2002,
+        "synopsis": "A surreal and complex novel weaving together the stories of a runaway teenager and an elderly man, exploring themes of fate, consciousness, and metaphysical mystery.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/1400079276-L.jpg",
+        "categories": [
+            "fiction",
+            "magical realism",
+            "literary fiction",
+            "english"
+        ]
+    },
+    {
+        "id": "bd4c6d3b-5e4d-4978-936f-31e3df498c48",
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "year": 1979,
+        "synopsis": "A comedic science fiction novel following Arthur Dent as he travels through space after Earth’s destruction, encountering bizarre alien cultures and absurd adventures.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/0345391802-L.jpg",
+        "categories": [
+            "fiction",
+            "science fiction",
+            "comedy",
+            "english"
+        ]
+    },
+    {
+        "id": "de13f1d2-0018-472c-bbdf-51a3502bed4d",
+        "title": "Memoirs of a Geisha",
+        "author": "Arthur Golden",
+        "year": 1997,
+        "synopsis": "A historical novel that tells the fictional story of a young Japanese girl sold into slavery who becomes one of the most celebrated geishas of her time.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/0679781587-L.jpg",
+        "categories": [
+            "fiction",
+            "historical fiction",
+            "literature",
+            "english"
+        ]
+    },
+    {
+        "id": "7f83cd4d-dfd3-4049-b503-0c28fcb0bc7a",
+        "title": "Twilight Saga",
+        "author": "Stephenie Meyer",
+        "year": 2005,
+        "synopsis": "A popular young adult vampire romance series following Bella Swan’s life as she falls in love with the vampire Edward Cullen, navigating the challenges of love, danger, and supernatural conflicts.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/0316015849-L.jpg",
+        "categories": [
+            "fiction",
+            "young adult",
+            "fantasy",
+            "romance",
+            "english"
+        ]
+    },
+    {
+        "id": "793c414f-d578-4921-83c2-ecbf9bbd6ae4",
+        "title": "A Monster Calls",
+        "author": "Patrick Ness",
+        "year": 2011,
+        "synopsis": "A poignant and imaginative novel about a young boy coping with his mother’s terminal illness, guided by a mysterious monster who tells stories that help him face his fears and grief.",
+        "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/a/aa/A_Monster_Calls.jpg",
+        "categories": [
+            "fiction",
+            "young adult",
+            "fantasy",
+            "literature",
+            "english"
+        ]
+    },
+    {
+        "id": "f4e786e2-e852-4ddc-b070-bbc85bcdd103",
+        "title": "Foundation Trilogy",
+        "author": "Isaac Asimov",
+        "year": 1951,
+        "synopsis": "A seminal science fiction series that chronicles the efforts to preserve knowledge and civilization amid the decline of a galactic empire, exploring themes of sociology, politics, and history.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/0553293354-L.jpg",
+        "categories": [
+            "science fiction",
+            "classic",
+            "space opera",
+            "english"
+        ]
+    },
+    {
+        "id": "26605b34-63a6-4004-89b3-c06591d3d397",
+        "title": "Hannibal",
+        "author": "Thomas Harris",
+        "year": 1999,
+        "synopsis": "The thrilling sequel to The Silence of the Lambs, following the infamous Dr. Hannibal Lecter as he evades capture and confronts his past with FBI agent Clarice Starling.",
+        "coverImageUrl": "https://images.cdn1.buscalibre.com/fit-in/360x360/d0/20/d020abe6344c9e73eefab23dbdbcfbc2.jpg",
+        "categories": [
+            "fiction",
+            "thriller",
+            "horror",
+            "english"
+        ]
+    },
+    {
+        "id": "9538defe-9333-4a47-bff7-126a817c0639",
+        "title": "Eat, Pray, Love",
+        "author": "Elizabeth Gilbert",
+        "year": 2006,
+        "synopsis": "A memoir chronicling the author's journey of self-discovery through Italy, India, and Indonesia, exploring themes of spirituality, healing, and personal growth.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/0143038419-L.jpg",
+        "categories": [
+            "memoir",
+            "non-fiction",
+            "travel",
+            "spirituality",
+            "english"
+        ]
+    },
+    {
+        "id": "b36b94e5-76bb-4914-a381-d685688ceee7",
+        "title": "The Pillars of the Earth",
+        "author": "Ken Follett",
+        "year": 1989,
+        "synopsis": "An epic historical novel set in 12th-century England, revolving around the construction of a cathedral in the fictional town of Kingsbridge, exploring themes of ambition, love, and betrayal.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/0451166892-L.jpg",
+        "categories": [
+            "historical fiction",
+            "fiction",
+            "drama",
+            "english"
+        ]
+    },
+    {
+        "id": "dbb7a79b-00b9-43c1-a11e-677f05e73084",
+        "title": "Foundation's Edge",
+        "author": "Isaac Asimov",
+        "year": 1982,
+        "synopsis": "A continuation of the Foundation series, exploring political intrigue and the search for the mythical planet Earth, as the Foundation faces new threats to its dominance.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/0553293370-L.jpg",
+        "categories": [
+            "science fiction",
+            "space opera",
+            "classic",
+            "english"
+        ]
+    },
+    {
+        "id": "d74d2590-6b56-4c00-808e-a5b2a0557551",
+        "title": "Happy People Read and Drink Coffee",
+        "author": "Agnes Martin-Lugand",
+        "year": 2013,
+        "synopsis": "A heartfelt novel about overcoming grief and rediscovering happiness, following Diane, who after losing her husband, moves to Ireland to start a new life and heal.",
+        "coverImageUrl": "https://atlantic-books.co.uk/wp-content/uploads/2025/02/9781760291716.jpeg",
+        "categories": [
+            "fiction",
+            "contemporary fiction",
+            "literary fiction",
+            "english"
+        ]
+    },
+    {
+        "id": "61221da1-e4fa-449e-98a2-7756380baab3",
+        "title": "Trainspotting",
+        "author": "Irvine Welsh",
+        "year": 1993,
+        "synopsis": "A gritty and raw novel depicting a group of heroin addicts in Edinburgh, exploring themes of addiction, friendship, and the harsh realities of urban life.",
+        "coverImageUrl": "https://images.cdn1.buscalibre.com/fit-in/360x360/47/d2/47d298fd2a2a82aa94301cbbe4414b0a.jpg",
+        "categories": [
+            "fiction",
+            "contemporary fiction",
+            "drama",
+            "english"
+        ]
+    },
+    {
+        "id": "822058cf-79b0-4904-a2a2-4930da1dae73",
+        "title": "Fight Club",
+        "author": "Chuck Palahniuk",
+        "year": 1996,
+        "synopsis": "A dark and provocative novel about an insomniac narrator who forms an underground fight club as a form of male bonding and rebellion against consumer culture, leading to unexpected chaos.",
+        "coverImageUrl": "https://literaturanorteamericana.ar/wp-content/uploads/2021/12/9780393327342-es.jpeg",
+        "categories": [
+            "fiction",
+            "contemporary fiction",
+            "psychological thriller",
+            "english"
+        ]
+    },
+    {
+        "id": "a5ef7e9e-b80f-415e-8408-067ecfbbfb88",
+        "title": "My Year of Rest and Relaxation",
+        "author": "Ottessa Moshfegh",
+        "year": 2018,
+        "synopsis": "A darkly comic novel about a young woman in New York City who decides to embark on a year-long experiment of pharmaceutical hibernation to escape her life and emotional pain.",
+        "coverImageUrl": "https://keledicionesb2c.vtexassets.com/arquivos/ids/183041/9781784707422.jpg?v=637997305098630000",
+        "categories": [
+            "fiction",
+            "contemporary fiction",
+            "literary fiction",
+            "english"
+        ]
+    },
+    {
+        "id": "51de4d5f-fa6b-4a4f-a394-dbb57dbc6c47",
+        "title": "I Am a Cat",
+        "author": "Natsume Soseki",
+        "year": 1905,
+        "synopsis": "A satirical novel narrated from the perspective of a nameless cat, providing witty commentary on Japanese society and human nature during the Meiji era.",
+        "coverImageUrl": "https://m.media-amazon.com/images/I/81waMFxU2SL._UF1000,1000_QL80_.jpg",
+        "categories": [
+            "fiction",
+            "classic",
+            "satire",
+            "english"
+        ]
+    },
+    {
+        "id": "a3f21d29-9ec9-408d-b88b-6e9c3dac199e",
+        "title": "Dune Chronicles",
+        "author": "Frank Herbert",
+        "year": 1965,
+        "synopsis": "A seminal science fiction series set in a distant future where noble houses vie for control of the desert planet Arrakis, the only source of the valuable spice melange.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/0441172717-L.jpg",
+        "categories": [
+            "science fiction",
+            "space opera",
+            "classic",
+            "english"
+        ]
+    },
+    {
+        "id": "dd34a772-1349-4757-96cc-c3a1d193f729",
+        "title": "The Time Traveler's Wife",
+        "author": "Audrey Niffenegger",
+        "year": 2003,
+        "synopsis": "A romantic novel about a man with a genetic disorder that causes him to involuntarily time travel, and his relationship with his wife as they navigate the challenges of love across time.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/015602943X-L.jpg",
+        "categories": [
+            "fiction",
+            "romance",
+            "science fiction",
+            "english"
+        ]
+    },
+    {
+        "id": "ea4b21d6-d502-40dd-98d6-b64dcf6f997e",
+        "title": "A Tree Grows in Brooklyn",
+        "author": "Betty Smith",
+        "year": 1943,
+        "synopsis": "A coming-of-age novel about a young girl growing up in a poor neighborhood of Brooklyn during the early 20th century, exploring themes of family, poverty, and resilience.",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7c92J_s_8TdrKAM4rT3cdYabm610cVRWgeg&s",
+        "categories": [
+            "fiction",
+            "classic",
+            "coming of age",
+            "english"
+        ]
+    },
+    {
+        "id": "40513320-305e-41d5-9df2-ab489be64fa7",
+        "title": "The Silence of the Lambs",
+        "author": "Thomas Harris",
+        "year": 1988,
+        "synopsis": "A psychological thriller featuring FBI trainee Clarice Starling as she seeks the help of imprisoned cannibalistic serial killer Hannibal Lecter to catch another serial killer on the loose.",
+        "coverImageUrl": "https://covers.openlibrary.org/b/isbn/0312924585-L.jpg",
+        "categories": [
+            "fiction",
+            "thriller",
+            "crime",
+            "psychological thriller",
+            "english"
+        ]
+    },
+    {
+        "id": "444dab0b-472c-4019-aa8b-1fc2aea1e4dc",
+        "title": "Red Dragon",
+        "author": "Thomas Harris",
+        "year": 1981,
+        "synopsis": "The first novel featuring FBI profiler Will Graham and the infamous Hannibal Lecter, as Graham investigates a serial killer known as the Tooth Fairy.",
+        "coverImageUrl": "https://images.cdn1.buscalibre.com/fit-in/360x360/52/12/52122103f88207e028c566536d8ae3a3.jpg",
+        "categories": [
+            "fiction",
+            "thriller",
+            "crime",
+            "psychological thriller",
+            "english"
+        ]
+    },
+    {
+        "id": "d301dfec-584c-472a-921e-a51a0762349b",
+        "title": "The House of the Spirits Trilogy",
+        "author": "Isabel Allende",
+        "year": null,
+        "synopsis": "A family saga spanning generations, blending magical realism and political history in Chile through the lives of the Trueba family.",
+        "coverImageUrl": "https://m.media-amazon.com/images/I/811bsvntzKL._UF1000,1000_QL80_.jpg",
+        "categories": [
+            "fiction",
+            "magical realism",
+            "family saga",
+            "spanish literature",
+            "english"
+        ]
+    },
+    {
+        "id": "432f1439-9daf-40d3-b191-da9d0e62bf70",
+        "title": "The Cat Who Loved Books",
+        "author": "Sosuke Matsukaya",
+        "year": 2016,
+        "synopsis": "A cozy mystery series featuring a librarian and her feline companion who help solve local crimes, blending charm and intrigue.",
+        "coverImageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620081395l/56755560.jpg",
+        "categories": [
+            "mystery",
+            "cozy mystery",
+            "fiction",
+            "english"
+        ]
+    },
+    {
+        "id": "3961f287-6324-4a3f-a91d-ac95da1f91a0",
+        "title": "The Tango of the Old Guard",
+        "author": "Arturo Pérez-Reverte",
+        "year": 2012,
+        "synopsis": "A thrilling novel set in Buenos Aires, where a passionate tango singer becomes embroiled in a mysterious and dangerous game involving love, betrayal, and crime.",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzjmxPjtH3ux8Dfk-X5EVtMaku14_-Cia5Tg&s",
+        "categories": [
+            "fiction",
+            "thriller",
+            "literary fiction",
+            "spanish literature",
+            "english"
+        ]
+    },
+    {
+        "id": "0409eaee-d515-4d52-8bee-1ac041c377eb",
+        "title": "The Fencing Master",
+        "author": "Arturo Pérez-Reverte",
+        "year": null,
+        "synopsis": "Set in 19th century Spain, this novel follows a fencing instructor who becomes entangled in political intrigue and a mysterious woman’s dangerous past.",
+        "coverImageUrl": "https://m.media-amazon.com/images/I/81Sh2yoH55L._UF350,350_QL50_.jpg",
+        "categories": [
+            "historical fiction",
+            "thriller",
+            "literary fiction",
+            "spanish literature",
+            "english"
+        ]
+    },
+    {
+        "id": "8ad5df2d-a856-4571-8e1a-31b9618091bf",
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "year": 2011,
+        "synopsis": "An exploration of the history and impact of Homo sapiens, from the emergence of archaic human species to the present, highlighting how biology and culture have shaped human societies.",
+        "coverImageUrl": "https://images.cdn2.buscalibre.com/fit-in/360x360/05/02/0502da9173d9e930003cfbad460bb725.jpg",
+        "categories": [
+            "non-fiction",
+            "history",
+            "science",
+            "anthropology",
+            "english"
+        ]
+    },
+    {
+        "id": "9c579a5d-5aa2-41fd-a01f-872083c3978e",
+        "title": "Before the Coffee Gets Cold",
+        "author": "Toshikazu Kawaguchi",
+        "year": 2015,
+        "synopsis": "A poignant tale set in a small Tokyo café where customers can travel back in time, but only before their coffee gets cold, exploring themes of love, loss, and second chances.",
+        "coverImageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1704153539i/44421460.jpg",
+        "categories": [
+            "fiction",
+            "magical realism",
+            "literary fiction",
+            "english"
+        ]
+    },
+    {
+        "id": "a1353520-c251-4ea6-8f08-64622d72cd26",
+        "title": "American Psycho",
+        "author": "Bret Easton Ellis",
+        "year": 1991,
+        "synopsis": "A dark and satirical novel that explores the mind of Patrick Bateman, a wealthy New York City investment banker who leads a double life as a serial killer, delving into themes of consumerism, identity, and insanity.",
+        "coverImageUrl": "https://images.cdn1.buscalibre.com/fit-in/360x360/8c/9d/8c9d2c7acb923127400643de1e54c16b.jpg",
+        "categories": [
+            "fiction",
+            "psychological thriller",
+            "horror",
+            "english"
+        ]
+    },
+    {
+        "id": "dfcdca40-e8d7-4a77-bda4-a35269afb50f",
+        "title": "The Kybalion",
+        "author": "Three Initiates",
+        "year": 1908,
+        "synopsis": "A philosophical text that explores the teachings of Hermeticism, presenting seven core principles that explain the nature of reality, the mind, and the universe.",
+        "coverImageUrl": "https://images.cdn1.buscalibre.com/fit-in/360x360/5e/52/5e523f6332bc2711e12a5ed35d1f1cb6.jpg",
+        "categories": [
+            "philosophy",
+            "esotericism",
+            "spirituality",
+            "english"
+        ]
+    },
+    {
+        "id": "559edf95-f57f-4c36-b6e0-d8aa31052adf",
+        "title": "All the Fairy Tales of the Brothers Grimm",
+        "author": "Jacob and Wilhelm Grimm",
+        "year": 1857,
+        "synopsis": "A comprehensive collection of traditional German fairy tales compiled by the Brothers Grimm, featuring classic stories like Cinderella, Hansel and Gretel, and Snow White.",
+        "coverImageUrl": "https://sbslibreria.vtexassets.com/arquivos/ids/176587/9780099582557.jpg?v=636798742692030000",
+        "categories": [
+            "fairy tales",
+            "folk tales",
+            "classic literature",
+            "english"
+        ]
+    },
+    {
+        "id": "43019ec0-16c1-4792-bbb2-b826755403f6",
+        "title": "Snow Crash",
+        "author": "Neal Stephenson",
+        "year": 1992,
+        "synopsis": "In a fast-paced cyberpunk future, hacker and pizza delivery driver Hiro Protagonist uncovers a new virtual drug called Snow Crash that threatens both the digital and real worlds.",
+        "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d5/Snowcrash.jpg",
+        "categories": [
+            "science fiction",
+            "cyberpunk",
+            "dystopia",
+            "thriller",
+            "english"
+        ]
+    },
+    {
+        "id": "c41f6ae8-df4c-461b-8a48-7972073e895c",
+        "title": "Cyberpunk 2077: Big City Dreams Vol. 1",
+        "author": "Bartosz Sztybor",
+        "year": 2022,
+        "synopsis": "In the neon-lit streets of Night City, two scavengers—Tasha and Mirek—pursue their dreams amidst chaos and danger. Tasha seeks fame and power, while Mirek longs for meaning and connection. Their paths diverge as they navigate the harsh realities of their world.",
+        "coverImageUrl": "https://m.media-amazon.com/images/I/81q1ZzpOh9L._UF1000,1000_QL80_.jpg",
+        "categories": [
+            "Cyberpunk",
+            "Graphic Novel",
+            "Science Fiction",
+            "Hugo Award Winner"
+        ]
+    },
+    {
+        "id": "f3959521-d78b-48d5-83fc-0bb06fe46d38",
+        "title": "Cyberpunk: Your Voice",
+        "author": "Aleksandra Motyka",
+        "year": 2023,
+        "synopsis": "In a neon-lit dystopian future, individuals struggle to maintain their identity amidst the overwhelming influence of technology and corporations. 'Cyberpunk: Your Voice' explores themes of rebellion, identity, and the power of human expression in a world dominated by cybernetic control.",
+        "coverImageUrl": "https://m.media-amazon.com/images/I/71ZFqhgGSBL._UF1000,1000_QL80_.jpg",
+        "categories": [
+            "Science Fiction",
+            "Cyberpunk",
+            "Dystopian"
+        ]
+    },
+    {
+        "id": "eef66410-40f7-4f60-85f2-322b180e5360",
+        "title": "Cyberpunk 2077: Blackout",
+        "author": "Bartosz Sztybor",
+        "year": 2023,
+        "synopsis": "In Night City, Arturo, a braindance technician, uncovers the struggle of users trapped in digital memories and how a blackout might offer escape in a dystopian cyberpunk world.",
+        "coverImageUrl": "https://images.darkhorse.com/covers/600/30/3008710.jpg",
+        "categories": [
+            "Comic",
+            "Science Fiction",
+            "Cyberpunk",
+            "Dystopia",
+            "Video Game Adaptation"
+        ]
+    },
+    {
+        "id": "63e67952-39b0-4a6d-8545-e0da7138c988",
+        "title": "Cyberpunk 2077: no coincidence",
+        "author": "Bartosz Sztybor",
+        "year": 2023,
+        "synopsis": "A gritty tale set in Night City exploring the lives of mercenaries and hackers where nothing is left to chance, revealing the hidden connections in a cyberpunk dystopia.",
+        "coverImageUrl": "https://images.cdn1.buscalibre.com/fit-in/360x360/a9/a4/a9a4474f1930d764a6a038a4235c637f.jpg",
+        "categories": [
+            "Comic",
+            "Science Fiction",
+            "Cyberpunk",
+            "Dystopia",
+            "Video Game Adaptation"
+        ]
+    },
+    {
+        "id": "d781988a-b41b-4d8d-9547-826404047a90",
+        "title": "1Q84",
+        "author": "Haruki Murakami",
+        "year": 2009,
+        "synopsis": "A surreal and complex novel blending alternate realities, mysterious cults, and love, following two protagonists navigating a parallel Tokyo in 1984.",
+        "coverImageUrl": "https://images.cdn1.buscalibre.com/fit-in/360x360/1a/1c/1a1c861dc7641281e0b75131c8d80dca.jpg",
+        "categories": [
+            "Fiction",
+            "Magical Realism",
+            "Mystery",
+            "Fantasy",
+            "Literary Fiction"
+        ]
+    },
+    {
+        "id": "f549c9a8-6c57-4edd-a16b-ea26302501ec",
+        "title": "The Wind-Up Bird Chronicle",
+        "author": "Haruki Murakami",
+        "year": 1994,
+        "synopsis": "A man named Toru Okada embarks on a search after his wife goes missing, exploring a blend of magical realism, mystery, and deep reflections on life and death.",
+        "coverImageUrl": "https://m.media-amazon.com/images/I/71GtJIryZJL.jpg",
+        "categories": [
+            "Fiction",
+            "Magical Realism",
+            "Contemporary Novel",
+            "Japanese Literature"
+        ]
+    },
+    {
+        "id": "ab8cfd3c-0e6f-4519-bf34-80249a4a3b17",
+        "title": "Convenience Store Woman",
+        "author": "Sayaka Murata",
+        "year": 2016,
+        "synopsis": "Tells the story of Keiko Furukura, a 36-year-old woman who finds solace and identity in working at a Tokyo convenience store.",
+        "coverImageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680105376i/36739755.jpg",
+        "categories": []
+    },
+    {
+        "id": "4f55c061-682d-40e2-8f11-a6394f4b1e7a",
+        "title": "Strange Weather In Tokyo",
+        "author": "Hiromi Kawakami",
+        "year": 2001,
+        "synopsis": "Follows Tsukiko Omachi, a woman in her thirties, as she reconnects with her former high school teacher, Harutsuna Matsumoto (referred to as Sensei). Their relationship blossoms from a chance encounter in a bar into a gentle, unconventional romance, marked by shared meals, seasonal changes, and quiet moments of companionship.",
+        "coverImageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1375634096i/18283207.jpg",
+        "categories": ["Literary fiction"]
+    },
+    {
+        "id": "f6b85e6f-d779-474e-86a0-9cff6f850364",
+        "title": "If Cats Disappeared from the World ",
+        "author": "Genki Kawamura",
+        "year": 2012,
+        "synopsis": "An unnamed narrator discovers he's going to die. The devil makes a deal with him to give him more days to live, but in return something has to disappear from the world each day as a trade.",
+        "coverImageUrl": "https://mpd-biblio-covers.imgix.net/9781250294043.jpg",
+        "categories": ["Fiction"]
+    },
+    {
+        "id": "0205d3f7-3b6e-45af-81a8-d7523a1de806",
+        "title": "Sprawl Trilogy",
+        "author": "William Gibson",
+        "year": null,
+        "synopsis": "The novels are set in a near-future world dominated by corporations and ubiquitous computing. The events of the novels are spaced over 16 years, and although there are familiar characters that appear, each novel tells a self-contained story. It is composed of Neuromancer (1984), Count Zero (1986), and Mona Lisa Overdrive (1988).[1]",
+        "coverImageUrl": "https://www.books2door.com/cdn/shop/products/81lzLTkmXNL_1024x1024.jpg?v=1633978509",
+        "categories": ["Science Fiction"]
+    },
+    {
+        "id": "84896255-30f9-41fe-ab85-9759f64ba5a1",
+        "title": "A Room of One's Own",
+        "author": "Virginia Woolf",
+        "year": 1929,
+        "synopsis": "Major themes of A Room of One's Own include the underinvestment of society in women's education and a lack of women's voices telling their own stories. It also details the need for women to claim both financial and intellectual freedom to write.",
+        "coverImageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442687308i/340793.jpg",
+        "categories": ["Essay"]
+    },
+    {
+        "id": "66d68708-0af5-434e-a92b-65c4c745d1e5",
+        "title": "Japanese Fairy Tales",
+        "author": "Yei Theodora Ozaki",
+        "year": null,
+        "synopsis": " Is a collection of 22 Japanese folk tales, selected and translated by the author. The book offers a glimpse into Japan's rich oral tradition, exploring themes such as love, honor, kindness, and respect for nature through stories that have been passed down from generation to generation.",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV_G7KgUccYeZVWgncU24ljE1bRCcTrhqeBA&s",
+        "categories": ["Folk tales, fables and legends."]
+    },
+    {
+        "id": "774f8ad4-cfb3-43b8-a43f-84630b5134b6",
+        "title": "One Thousand and One Nights",
+        "author": "Unknown",
+        "year": 900,
+        "synopsis": "Is a collection of Middle Eastern and South Asian stories framed by the narrative of Scheherazade. To escape execution, she tells captivating stories to the vengeful King Shahryar each night, leaving him in suspense to hear the end, thus prolonging her life for another thousand and one nights",
+        "coverImageUrl": "https://images.cdn1.buscalibre.com/fit-in/360x360/02/14/0214a347da6c595270f7650e4981a2dc.jpg",
+        "categories": ["Fairy Tale", "Fiction"]
+    }
+]
