@@ -1,6 +1,6 @@
 import json
 import asyncio
-from sqlalchemy import text, select
+from sqlalchemy import text, select, func
 from sqlalchemy.ext.asyncio import AsyncSession
 from models.book import Book
 from database import AsyncSessionLocal, engine, Base, get_async_db
@@ -15,7 +15,7 @@ async def create_db_tables():
 
 async def load_books_from_json_conditionally(db_session: AsyncSession):
 
-    existing_books_count = await db_session.scalar(select(Book).count())
+    existing_books_count = await db_session.scalar(select(func.count()).select_from(Book))
 
     if existing_books_count > 0:
         print(f"Database already contains {existing_books_count} books. Skipping initial book loading.")
