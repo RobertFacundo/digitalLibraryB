@@ -1458,7 +1458,9 @@
         "year": 2001,
         "synopsis": "Follows Tsukiko Omachi, a woman in her thirties, as she reconnects with her former high school teacher, Harutsuna Matsumoto (referred to as Sensei). Their relationship blossoms from a chance encounter in a bar into a gentle, unconventional romance, marked by shared meals, seasonal changes, and quiet moments of companionship.",
         "coverImageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1375634096i/18283207.jpg",
-        "categories": ["Literary fiction"]
+        "categories": [
+            "Literary fiction"
+        ]
     },
     {
         "id": "f6b85e6f-d779-474e-86a0-9cff6f850364",
@@ -1467,7 +1469,9 @@
         "year": 2012,
         "synopsis": "An unnamed narrator discovers he's going to die. The devil makes a deal with him to give him more days to live, but in return something has to disappear from the world each day as a trade.",
         "coverImageUrl": "https://mpd-biblio-covers.imgix.net/9781250294043.jpg",
-        "categories": ["Fiction"]
+        "categories": [
+            "Fiction"
+        ]
     },
     {
         "id": "0205d3f7-3b6e-45af-81a8-d7523a1de806",
@@ -1476,7 +1480,9 @@
         "year": null,
         "synopsis": "The novels are set in a near-future world dominated by corporations and ubiquitous computing. The events of the novels are spaced over 16 years, and although there are familiar characters that appear, each novel tells a self-contained story. It is composed of Neuromancer (1984), Count Zero (1986), and Mona Lisa Overdrive (1988).[1]",
         "coverImageUrl": "https://www.books2door.com/cdn/shop/products/81lzLTkmXNL_1024x1024.jpg?v=1633978509",
-        "categories": ["Science Fiction"]
+        "categories": [
+            "Science Fiction"
+        ]
     },
     {
         "id": "84896255-30f9-41fe-ab85-9759f64ba5a1",
@@ -1485,7 +1491,9 @@
         "year": 1929,
         "synopsis": "Major themes of A Room of One's Own include the underinvestment of society in women's education and a lack of women's voices telling their own stories. It also details the need for women to claim both financial and intellectual freedom to write.",
         "coverImageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442687308i/340793.jpg",
-        "categories": ["Essay"]
+        "categories": [
+            "Essay"
+        ]
     },
     {
         "id": "66d68708-0af5-434e-a92b-65c4c745d1e5",
@@ -1494,7 +1502,9 @@
         "year": null,
         "synopsis": " Is a collection of 22 Japanese folk tales, selected and translated by the author. The book offers a glimpse into Japan's rich oral tradition, exploring themes such as love, honor, kindness, and respect for nature through stories that have been passed down from generation to generation.",
         "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV_G7KgUccYeZVWgncU24ljE1bRCcTrhqeBA&s",
-        "categories": ["Folk tales, fables and legends."]
+        "categories": [
+            "Folk tales, fables and legends."
+        ]
     },
     {
         "id": "774f8ad4-cfb3-43b8-a43f-84630b5134b6",
@@ -1503,6 +1513,90 @@
         "year": 900,
         "synopsis": "Is a collection of Middle Eastern and South Asian stories framed by the narrative of Scheherazade. To escape execution, she tells captivating stories to the vengeful King Shahryar each night, leaving him in suspense to hear the end, thus prolonging her life for another thousand and one nights",
         "coverImageUrl": "https://images.cdn1.buscalibre.com/fit-in/360x360/02/14/0214a347da6c595270f7650e4981a2dc.jpg",
-        "categories": ["Fairy Tale", "Fiction"]
+        "categories": [
+            "Fairy Tale",
+            "Fiction"
+        ]
+    },
+    {
+        "id": "a123f5c0-7b2e-4cdd-9452-f3b58a82c1ef",
+        "title": "The Wheel of Time",
+        "author": "Robert Jordan (and Brandon Sanderson)",
+        "year": 1990,
+        "synopsis": "An epic high fantasy saga set in a richly detailed world where time is cyclical and magic weaves the fate of nations. Following the journey of Rand al'Thor and his companions, the series explores prophecy, power, and the eternal battle between Light and Shadow.",
+        "coverImageUrl": "https://mpd-biblio-covers.imgix.net/9780765337856.jpg?w=210dpr=1%201x,%20https://mpd-biblio-covers.imgix.net/9780765337856.jpg?w=210dpr=2%202x,%20https://mpd-biblio-covers.imgix.net/9780765337856.jpg?w=210dpr=3%203x",
+        "categories": [
+            "fantasy",
+            "epic",
+            "series",
+            "english",
+            "high fantasy",
+            "classic"
+        ]
+    },
+    {
+        "id": "c459d873-6f9f-4d45-9ea4-1a41fc6c8db1",
+        "title": "The Kingkiller Chronicle",
+        "author": "Patrick Rothfuss",
+        "year": 2007,
+        "synopsis": "A lyrical and immersive high fantasy series chronicling the life of Kvothe, a gifted musician, magician, and adventurer, as he recounts his journey from tragedy and poverty to legendary status. Blending myth, mystery, and music, the saga explores the price of power and the pursuit of truth.",
+        "coverImageUrl": "https://images.squarespace-cdn.com/content/v1/596508de72af6598628b111b/1608150549257-1LTWNEUM3E4XPAE1XU8W/kingkiller-chronicles-1024x786.jpg?format=1000w",
+        "categories": [
+            "fantasy",
+            "high fantasy",
+            "series",
+            "english",
+            "magic",
+            "classic"
+        ]
+    },
+    {
+        "id": "f17b0b94-5b8f-4c80-8c94-e9f3f1f7e520",
+        "title": "The Maltese Falcon",
+        "author": "Dashiell Hammett",
+        "year": 1930,
+        "synopsis": "A cornerstone of hardboiled detective fiction, this novel follows private investigator Sam Spade as he navigates deception, murder, and betrayal in pursuit of a priceless artifact. With sharp dialogue and morally ambiguous characters, it helped define the noir genre.",
+        "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/The_Maltese_Falcon_%281st_ed_cover%29.jpg",
+        "categories": [
+            "noir",
+            "detective",
+            "classic",
+            "crime",
+            "fiction",
+            "english"
+        ]
+    },
+    {
+        "id": "e07d89c2-8f8a-4e5a-b23c-b14b4c9b6724",
+        "title": "Farewell, My Lovely",
+        "author": "Raymond Chandler",
+        "year": 1940,
+        "synopsis": "In this hardboiled noir classic, private detective Philip Marlowe becomes entangled in a web of corruption, murder, and betrayal while searching for a missing ex-con’s former girlfriend. With atmospheric prose and razor-sharp wit, Chandler crafts a gritty portrait of Los Angeles and the darkness lurking beneath its surface.",
+        "coverImageUrl": "https://cdn.kobo.com/book-images/78a3abfb-549d-4bce-a5dd-27c4018c5c6e/1200/1200/False/farewell-my-lovely-26.jpg",
+        "categories": [
+            "noir",
+            "detective",
+            "crime",
+            "classic",
+            "fiction",
+            "english"
+        ]
+    },
+    {
+        "id": "b3a0de52-4671-43e2-a9cc-2d9a5e9c3e11",
+        "title": "The Millennium Trilogy",
+        "author": "Stieg Larsson",
+        "year": 2005,
+        "synopsis": "A gripping Swedish crime thriller trilogy centered on journalist Mikael Blomkvist and hacker Lisbeth Salander. The story explores murder, corporate corruption, abuse, and justice through fast-paced plots and complex characters. A landmark in Scandinavian noir fiction.",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp4OXWf3mxwEytJr3bpWj50lstCZE7oWkwzA&s",
+        "categories": [
+            "crime",
+            "thriller",
+            "noir",
+            "detective",
+            "series",
+            "swedish",
+            "english"
+        ]
     }
 ]

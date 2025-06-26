@@ -3,7 +3,8 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import HTMLResponse
 from controllers import auth_controller, library_controller, book_controller
-from database import create_db_tables
+from database import create_db_tables, get_async_db
+from utils.db_utils import load_books_from_json_conditionally
 
 import models.user
 import models.book
@@ -12,6 +13,11 @@ import models.book
 async def lifespan(app: FastAPI):
     await create_db_tables()
     print("Database tables created (if they didn't exist).")
+    
+    async for db_session in get_async_db():
+        await load_books_from_json_conditionally(db_session)
+        break
+    
     yield
 
 app = FastAPI(lifespan=lifespan)

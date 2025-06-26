@@ -1,8 +1,9 @@
 import json
 import asyncio
-from sqlalchemy import text
+from sqlalchemy import text, select
+from sqlalchemy.ext.asyncio import AsyncSession
 from models.book import Book
-from database import AsyncSessionLocal, engine, Base
+from database import AsyncSessionLocal, engine, Base, get_async_db
 
 
 BOOK_JSON_PATH = 'data/books.json'
@@ -12,47 +13,49 @@ async def create_db_tables():
         await conn.run_sync(Base.metadata.create_all)
     print("Database tables created (if they didn't exist).")
 
-async def load_books_from_json():
-    async with AsyncSessionLocal() as db:
-        try:
+async def load_books_from_json_conditionally(db_session: AsyncSession):
 
-            await db.execute(text("TRUNCATE TABLE books RESTART IDENTITY CASCADE;"))
-            print("Existing books purged from database.")
+    existing_books_count = await db_session.scalar(select(Book).count())
 
-            with open(BOOK_JSON_PATH, 'r', encoding='utf-8') as f:
-                books_data = json.load(f)
+    if existing_books_count > 0:
+        print(f"Database already contains {existing_books_count} books. Skipping initial book loading.")
+        return
+    
+    print("Database 'books' table is empty. Attempting to load books from JSON...")
 
-                books_to_add = []
-                for book_data in books_data:
-                    book_data['id'] = str(book_data['id'])
+    try:
+        with open(BOOK_JSON_PATH, 'r', encoding='utf-8') as f:
+            books_data = json.load(f)
+        books_to_add = []
+        for book_data in books_data:
+            book_data['id'] = str(book_data['id'])
 
-                    if 'categories' in book_data and isinstance(book_data['categories'], str):
-                        book_data['categories'] = [cat.strip() for cat in book_data['categories'].split(',')]
+            if 'categories' in book_data and isinstance(book_data['categories'], str):
+                book_data['categories'] = [cat.strip() for cat in book_data['categories'].split(',')]
+            books_to_add.append(Book(**book_data))
 
-                    existing_book = await db.get(Book, book_data['id'])
+        db_session.add_all(books_to_add)
+        await db_session.commit()
+        print(f"Successfully loaded {len(books_to_add)} books from JSON into the database.")
+    except FileNotFoundError:
+        print(f"❌ Error: El archivo '{BOOK_JSON_PATH}' no fue encontrado.")
+    except json.JSONDecodeError:
+        print(f"❌ Error: El archivo '{BOOK_JSON_PATH}' no es un JSON válido.")
+    except Exception as e:
+        await db.rollback()
+        print(f"❌ Ocurrió un error al cargar los libros: {e}")
+    else:
+        pass
 
-                    new_book = Book(**book_data)
-                    books_to_add.append(new_book)
-
-                db.add_all(books_to_add)
-                await db.commit()
-                print(f"Loaded {len(books_to_add)} books from JSON.")
-        except FileNotFoundError:
-            print(f"❌ Error: El archivo '{BOOK_JSON_PATH}' no fue encontrado.")
-        except json.JSONDecodeError:
-            print(f"❌ Error: El archivo '{BOOK_JSON_PATH}' no es un JSON válido.")
-        except Exception as e:
-            await db.rollback()
-            print(f"❌ Ocurrió un error al cargar los libros: {e}")
-
-
-async def init_db_data():
-    await create_db_tables()
-    await load_books_from_json()
     
 if __name__ == '__main__':
     print("Initializing database data from JSON...")
-    asyncio.run(init_db_data())
-    print("Database initialization complete.")
+    async def _run_seed_test():
+        await create_db_tables()
+        async for session in get_async_db(): # Usa get_async_db para obtener la sesión
+            await load_books_from_json_conditionally(session)
+            break
+    asyncio.run(_run_seed_test())
+    print("Database initialization complete (via script).")
 
         
