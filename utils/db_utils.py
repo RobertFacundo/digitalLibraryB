@@ -1,13 +1,28 @@
 import json
 import asyncio
+from sqlalchemy import text
 from models.book import Book
-from database import AsyncSessionLocal
+from database import AsyncSessionLocal, engine, Base
 
-async def load_books_from_json(json_file: str):
+
+BOOK_JSON_PATH = 'data/books.json'
+
+async def create_db_tables():
+    async with engine.begin() as conn:
+        await conn.run_sync(Base.metadata.create_all)
+    print("Database tables created (if they didn't exist).")
+
+async def load_books_from_json():
     async with AsyncSessionLocal() as db:
         try:
-            with open(json_file, 'r', encoding='utf-8') as f:
+
+            await db.execute(text("TRUNCATE TABLE books RESTART IDENTITY CASCADE;"))
+            print("Existing books purged from database.")
+
+            with open(BOOK_JSON_PATH, 'r', encoding='utf-8') as f:
                 books_data = json.load(f)
+
+                books_to_add = []
                 for book_data in books_data:
                     book_data['id'] = str(book_data['id'])
 
@@ -16,26 +31,28 @@ async def load_books_from_json(json_file: str):
 
                     existing_book = await db.get(Book, book_data['id'])
 
-                    if existing_book:
-                        for key, value in book_data.items():
-                            setattr(existing_book, key, value)
-                        print(f"🔄 Libro actualizado: {existing_book.title}")
-                    else:
-                        book = Book(**book_data)
-                        db.add(book)
-                        print(f"➕ Libro agregado: {book.title}")
+                    new_book = Book(**book_data)
+                    books_to_add.append(new_book)
+
+                db.add_all(books_to_add)
                 await db.commit()
-                print(f"✅ Libros cargados exitosamente desde '{json_file}' en la base de datos.")
+                print(f"Loaded {len(books_to_add)} books from JSON.")
         except FileNotFoundError:
-            print(f"❌ Error: El archivo '{json_file}' no fue encontrado.")
+            print(f"❌ Error: El archivo '{BOOK_JSON_PATH}' no fue encontrado.")
         except json.JSONDecodeError:
-            print(f"❌ Error: El archivo '{json_file}' no es un JSON válido.")
+            print(f"❌ Error: El archivo '{BOOK_JSON_PATH}' no es un JSON válido.")
         except Exception as e:
             await db.rollback()
             print(f"❌ Ocurrió un error al cargar los libros: {e}")
+
+
+async def init_db_data():
+    await create_db_tables()
+    await load_books_from_json()
     
 if __name__ == '__main__':
-
-    asyncio.run(load_books_from_json('data/books.json'))
+    print("Initializing database data from JSON...")
+    asyncio.run(init_db_data())
+    print("Database initialization complete.")
 
         

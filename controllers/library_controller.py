@@ -8,10 +8,11 @@ from auth.dependencies import get_current_user
 from models.user import User
 from services import library_service
 from schemas.book import Book
+from schemas.user import UserOut as UserSchema
 
 router = APIRouter(prefix="/library", tags=["library"])
 
-@router.post("/", response_model=Book)
+@router.post("/", response_model=UserSchema)
 async def add_book(
     book_id: str, 
     current_user: User = Depends(get_current_user), 
@@ -26,7 +27,7 @@ async def get_library(
     ):
     return await library_service.get_user_library(current_user.id, db_session)
 
-@router.delete("/{book_id}", status_code=status.HTTP_204_NO_CONTENT)
+@router.delete("/{book_id}", response_model=UserSchema)
 async def delete_book(
     book_id: str, 
     current_user: User = Depends(get_current_user), 

@@ -16,4 +16,4 @@ class User(Base):
     username = Column(String, unique=True, index=True, nullable=False)
     hashed_password = Column(String, nullable=False)
 
-    books = relationship("Book", secondary=user_books, back_populates="users")
+    books = relationship("Book", secondary=user_books, back_populates="users", lazy='selectin')

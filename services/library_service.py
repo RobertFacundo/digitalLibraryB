@@ -3,10 +3,14 @@ from sqlalchemy.future import select
 from fastapi import HTTPException, status
 from models.user import User
 from models.book import Book
-from schemas.book import BookCreate
+from sqlalchemy.orm import selectinload
 
 async def add_book_to_library(user_id: int, book_id: str, db_session: AsyncSession):
-    user = await db_session.get(User, user_id)
+    user_query = await db_session.execute(
+        select(User).options(selectinload(User.books)).where((User.id == user_id))
+    )
+    user = user_query.scalars().first()
+
     if not user:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail='User not found')
     
@@ -14,7 +18,6 @@ async def add_book_to_library(user_id: int, book_id: str, db_session: AsyncSessi
     if not book:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail='Book not found')
     
-    await db_session.refresh(user, attribute_names=["books"])
     
     if book in user.books:
         raise HTTPException(status_code=status.HTTP_409_CONFLICT, detail='Book already in library')
@@ -22,10 +25,11 @@ async def add_book_to_library(user_id: int, book_id: str, db_session: AsyncSessi
     user.books.append(book)
     await db_session.commit()
 
-    await db_session.refresh(user)
-    await db_session.refresh(book)
 
-    return book
+    await db_session.refresh(user)
+    await db_session.refresh(user, attribute_names=["books"])
+
+    return user
 
 async def get_user_library(user_id: int, db_session: AsyncSession):
     user = await db_session.get(User, user_id)
@@ -35,7 +39,11 @@ async def get_user_library(user_id: int, db_session: AsyncSession):
     return user.books
 
 async def remove_book_from_library(user_id: int, book_id: str, db_session: AsyncSession):
-    user = await db_session.get(User, user_id)
+    user_query = await db_session.execute(
+        select(User).options(selectinload(User.books)).where(User.id == user_id)
+    )
+    user = user_query.scalars().first()
+
     if not user:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="User not found")
     
@@ -43,12 +51,14 @@ async def remove_book_from_library(user_id: int, book_id: str, db_session: Async
     if not book:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Book not found")
     
-    await db_session.refresh(user, attribute_names=["books"])
     
     if book not in user.books:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Book not found in library")
     
     user.books.remove(book)
     await db_session.commit()
+
     await db_session.refresh(user)
-    return {"message": "Book removed"}
+    await db_session.refresh(user, attribute_names=["books"])
+    
+    return user
